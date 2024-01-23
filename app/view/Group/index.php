@@ -33,6 +33,7 @@
                         </a>
                         <a href="http://localhost/ourtaskmvc/public/setting/profile">
                             <img src="http://localhost/ourtaskmvc/public/image/Profil.png" alt="" class="profile">
+                            
                         </a>
                     </div>
                 </div>
